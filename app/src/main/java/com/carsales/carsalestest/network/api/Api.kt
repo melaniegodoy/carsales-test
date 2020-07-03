@@ -16,7 +16,7 @@ import kotlin.collections.HashMap
 
 interface Api {
 
-    @POST("?")
+    @GET("?")
     fun getTotalCovid(
         @HeaderMap headers: HashMap<String,String>,
         @Query("date") date : String) : Observable<Response<ResponseCovidData>>
