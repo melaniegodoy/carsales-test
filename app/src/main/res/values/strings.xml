@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Carsales Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_select_date">Seleccione una fecha</string>
+    <string name="active_cases">Cantidad de personas infectadas: %1$s</string>
+    <string name="confirmed_cases">Casos confirmados: %1$s</string>
 </resources>
